@@ -111,11 +111,11 @@ author:
   avatar           : "/assets/images/profile.jpg"
   bio              : "I am a **normal** person."
   location         : "Somewhere only we know"
-  email            : "icamarissa24@gmail.com"
+  email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-        url: mailto:icamarissa24@gmail.com
+      #  url: mailto:icamarissa24@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
